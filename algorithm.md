@@ -1,11 +1,11 @@
 how does the doomsday algorithm work?
 
-note: all dates are in DD/MM/YYYY format
+note: all dates are in dd/mm/yyyy format
 
 doomsdays: 	
 * 3/1 or 4/1 on a leap year
 * 28/2 or 29/2 on a leap year
-* 14/3 AKA π-day
+* 14/3 aka π-day
 * 4/4; 6/6; 8/8; 10/10; 12/12
 * 9/5; 11/7; 5/9; 7/11
 
@@ -50,8 +50,8 @@ examples:
   wednesday is a 3 (see days), plus remainder of 4 equals 7 (ie 0) -> 
   doomsday in 1976 was sunday
 3. closest doomsday to wanted date is 11/7 (see doomsdays)
-4. 4 days until 15/7;
+4. four days until 15/7;
   doomsday that year is a sunday (a 0, see days)
   0 (sunday) + 4 (days until wanted date from closest doomdays) -> 4
   4 is a thursday (see days)
-5. on the 15th of July 1976 it was a thursday.
+5. on the 15th of july 1976 it was a thursday
