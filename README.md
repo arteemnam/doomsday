@@ -1,11 +1,15 @@
 # doomsday
 just a quick python script for practicing doomsday algorithm
 
-how it works:
-1. random date is generated in DD/MM/YYYY format and printed
+how the algorithm works:
+1. see algorithm.md 
+
+how the code works:
+1. random date is generated in dd/mm/yyyy format and printed
 2. user is asked to input day of week (sunday, ..., saturday), capitalization of letters does not matter
 3. code checks whether user is correct
 4. another date is generated
+5. hf
 
 for compiling into a windows executable use the following method:
 1. make sure you have python and pip installed
