@@ -14,7 +14,7 @@ def doomsday():
     print("What day of week is " + datum + "?")
 
     #Uncomment the below line to show what the day is supposed to be
-		#print("Hint: " + calendar.day_name[random_date.weekday()])
+	#print("Hint: " + calendar.day_name[random_date.weekday()])
 
     guess = input("What is your guess? ")
 
